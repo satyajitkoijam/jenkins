@@ -1,6 +1,8 @@
 # jenkins
+Requirment
+1.  Job DSL plugin
 
-Steps
+Steps to setup pipeline
 1.  Open Jenkins URl or localhost:8080
 2.  Create new pipeline Job. Example Name : admin-seejob
 3.  Add some parameter.
